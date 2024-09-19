@@ -1,16 +1,13 @@
-## Hi there 👋
+# 💫 about me:
+🌷 Sou dev web trilhando meus conhecimentos<br>
+👩🏻‍🎓 Formada em Analise e Desenvolvimento de Sistemas<br>
+💡 Atualmente aprendendo sobre front end<br>
 
-<!--
-**victoriacalisto/victoriacalisto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 tech stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-Here are some ideas to get you started:
+![](https://github-readme-stats.vercel.app/api?username=victoriacalisto&theme=date_night&hide_border=true&include_all_commits=false&count_private=false)<br/> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=victoriacalisto&theme=date_night&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/victória-calisto ) 
