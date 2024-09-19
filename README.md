@@ -9,5 +9,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=victoriacalisto&theme=date_night&hide_border=true&include_all_commits=false&count_private=false)<br/> 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=victoriacalisto&theme=date_night&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🌐 socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/victória-calisto ) 
