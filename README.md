@@ -1,5 +1,4 @@
 # 💫 about me
-🌷 Sou dev web trilhando meus conhecimentos<br>
 👩🏻‍🎓 Formada em Analise e Desenvolvimento de Sistemas<br>
 
 
