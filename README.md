@@ -1,5 +1,5 @@
 # 💫 about me
-👩🏻‍🎓 Formada em Analise e Desenvolvimento de Sistemas<br>
+ Formada em Analise e Desenvolvimento de Sistemas<br>
 
 
 # 💻 tech stack
