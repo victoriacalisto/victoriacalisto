@@ -10,4 +10,4 @@
 
 # 
 <p>um passo de cada vez</p>
-<img src= "https://github.com/victoriacalisto/victoriacalisto/blob/main/kirby_headphones.gif" width="300">
+<img src= "https://github.com/victoriacalisto/victoriacalisto/blob/main/kirby_headphones.gif" width="250">
