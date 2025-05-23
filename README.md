@@ -2,7 +2,7 @@
 
 #
 
- <h3> GitHub stats</h3>
+ <h3> GitHub stats:</h3>
  
 ![](https://github-readme-stats.vercel.app/api?username=victoriacalisto&theme=date_night&hide_border=true&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=victoriacalisto&theme=date_night&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
